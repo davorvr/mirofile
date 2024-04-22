@@ -18,7 +18,7 @@ pip install mirofile
 
 ##### Dependencies
 
- * [tqdm](https://pypi.org/project/tqdm/) - can be also be installed with `pip`
+ * [`tqdm`](https://pypi.org/project/tqdm/) - can be also be installed with `pip`
 
 #### License
 
